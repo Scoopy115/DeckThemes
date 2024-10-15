@@ -1,0 +1,10 @@
+{
+  "name": "GTA V Pause Menu Music",
+  "description": "Background music from the Grand Theft Auto V pause menu. All copyright goes to Rockstar Games and Tangerine Dream.",
+  "author": "scoopy115",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}

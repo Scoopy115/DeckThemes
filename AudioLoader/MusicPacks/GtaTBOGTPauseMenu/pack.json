@@ -1,0 +1,10 @@
+{
+  "name": "GTA IV: TBOGT Pause Menu Music",
+  "description": "Background music from the Grand Theft Auto IV: The Ballad of Gay Tony pause menu. All copyright goes to Rockstar Games.",
+  "author": "scoopy115",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
